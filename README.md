@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sujal Agarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal0311" alt="sujal0311" /></a> </p>
+<img align="right" width="400px" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
+
 
 - 🌱 I’m currently learning **Data Structure, Machine Learning and Backend Development Technologies**
 
@@ -12,6 +13,8 @@
 - 💬 Ask me about **development related questions.**
 
 - 📫 How to reach me **sujalagarwal0311@gmail.com**
+
+- - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/sujal0311)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view](https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view)
 
