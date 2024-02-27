@@ -6,15 +6,21 @@
 <img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
 
 
+
 - 🌱 I’m currently learning **Data Structure, Machine Learning and Backend Development Technologies**
+
 
 -  ❤️ I'm Currently Pursuing my **B Tech** in **Computer Science and Engineering (CSE)**.
 
+
 - 💬 Ask me about **development related questions.**
+
 
 - 📫 How to reach me **sujalagarwal0311@gmail.com**
 
-- - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/sujal0311)
+
+- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/sujal0311)
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view](https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view)
 
