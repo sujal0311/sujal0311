@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal0311" alt="sujal0311" /></a> </p>
-<img align="right" width="350px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
+<img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
 
 
 - 🌱 I’m currently learning **Data Structure, Machine Learning and Backend Development Technologies**
