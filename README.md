@@ -1,3 +1,4 @@
+![logo](https://th.bing.com/th/id/OIG4.EecpAUaPUt5I7.8eRkyE?rs=1&pid=ImgDetMain) 
 <h1 align="center">Hi 👋, I'm Sujal Agarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
