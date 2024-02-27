@@ -1,4 +1,4 @@
-![logo](https://github.com/sujal0311/sujal0311/blob/main/OIG4.LlK%20(1).jpg) 
+![logo](https://github.com/sujal0311/sujal0311/blob/main/OIG4.LlK%20(2).jpg) 
 <h1 align="center">Hi 👋, I'm Sujal Agarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
