@@ -22,8 +22,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/sujal0311)
 
+- Have a look at my [Portfolio Website](https://sujalagarwal.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view](https://drive.google.com/file/d/1CHzomAlZ7TgsyTgvYF67vJig7JKCs6HM/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1GyCs7bb9sTNZc_vDoEjvfy5ITnsUotbN/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
