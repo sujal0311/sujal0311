@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sujalagarwal0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujalagarwal0311" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujalagarwal0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujalagarwal0311" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandfetch.com%2Fgeeksforgeeks.org&psig=AOvVaw2xWwo2dwko7jJCmUUHH-Ip&ust=1760790326884000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiNzaGdq5ADFQAAAAAdAAAAABAE" alt="gfg profile" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gfg profile" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
