@@ -24,7 +24,7 @@
 
 - Have a look at my [Portfolio Website](https://sujalagarwal2024.netlify.app/)
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1GyCs7bb9sTNZc_vDoEjvfy5ITnsUotbN/view)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1zHQq_RkTgPaJpLWlFzd2BR5ZJ2kKqS_Y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
