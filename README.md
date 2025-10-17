@@ -6,10 +6,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal0311" alt="sujal0311" /></a> </p>
 <img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
 
+Hi, I’m Sujal Agarwal, a Computer Science and Engineering student (2022–2026) at B.P. Poddar Institute of Management and Technology with a 9.03 CGPA. I’m passionate about combining technology and creativity to build impactful, scalable solutions that make a real difference.
 
+I specialize in the MERN stack and have a strong foundation in C, C++, and Java. Over the past year, I’ve gained practical experience through internships at ANTLABS and ITJobxs, where I developed AI-powered tools, dashboards, and full-stack web platforms with responsive, secure, and user-focused designs.
 
-- 🌱 I’m currently learning **Data Structure, Machine Learning and Backend Development Technologies**
+Some of my key projects include:
 
+Sarathi — a comprehensive mental health platform with chat, video calls, and community features.
+
+RupeeKart — a full-featured e-commerce platform with Razorpay payment integration and AI chatbot support.
+
+AlumniHub — an AI-powered alumni networking platform with mentorship and community modules.
+
+Beyond development, I’m an avid problem solver with 300+ DSA problems solved and a 5⭐ Gold Badge in Problem Solving on HackerRank. I’ve also earned top honors in several competitions — 1st place at Appmania 2024 and the Innovative Project Competition 2024, 3rd place at the Business Plan Innovation Competition, and recognition in the Top 30 at Hack-O-NIT 2024.
+
+I’m always exploring new technologies, collaborating on innovative ideas, and striving to create user-centric, AI-driven web solutions that blend performance with purpose.Hi, I’m Sujal Agarwal, a Computer Science and Engineering student (2022–2026) at B.P. Poddar Institute of Management and Technology with a 9.03 CGPA. I’m passionate about combining technology and creativity to build impactful, scalable solutions that make a real difference. I specialize in the MERN stack and have a strong foundation in C, C++, and Java. Over the past year, I’ve gained practical experience through internships at ANTLABS and ITJobxs, where I developed AI-powered tools, dashboards, and full-stack web platforms with responsive, secure, and user-focused designs. Some of my key projects include: Sarathi — a comprehensive mental health platform with chat, video calls, and community features. RupeeKart — a full-featured e-commerce platform with Razorpay payment integration and AI chatbot support. AlumniHub — an AI-powered alumni networking platform with mentorship and community modules. Beyond development, I’m an avid problem solver with 300+ DSA problems solved and a 5⭐ Gold Badge in Problem Solving on HackerRank. I’ve also earned top honors in several competitions — 1st place at Appmania 2024 and the Innovative Project Competition 2024, 3rd place at the Business Plan Innovation Competition, and recognition in the Top 30 at Hack-O-NIT 2024. I’m always exploring new technologies, collaborating on innovative ideas, and striving to create user-centric, AI-driven web solutions that blend performance with purpose.
 
 -  ❤️ I'm Currently Pursuing my **B Tech** in **Computer Science and Engineering (CSE)**.
 
