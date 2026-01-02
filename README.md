@@ -59,3 +59,14 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 
 ### **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=sujal0311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
+
+## 🔥 **Recent Activity**
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal0311&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
