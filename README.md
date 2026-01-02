@@ -54,6 +54,29 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
 
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sujal0311&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117&text_color=ffffff" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=tokyonight&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0D1117" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal0311&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117&text_color=ffffff&hide=jupyter%20notebook" />
+
+</div>
+
 ### **LeetCode Journey**
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sujalagarwal0311" alt="LeetCode Badges" />
 
