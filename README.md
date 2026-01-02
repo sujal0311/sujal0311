@@ -44,8 +44,18 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
   <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gfg profile" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)![MySQL](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+🛠️ Technologies Known
+<div align="center">
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" /> </p>
+🎨 Frontend Development
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" /> </p>
+⚙️ Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /> </p>
+🤖 AI & Realtime Tech
+<p> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /> </p>
+🔧 Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark" /> </p> </div>
 
 # 📊 GitHub Stats:
 <div align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal0311&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  /></div>
