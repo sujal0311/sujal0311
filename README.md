@@ -1,12 +1,12 @@
 ![logo](https://res.cloudinary.com/dsujse28c/image/upload/v1760692236/Screenshot_2025-10-17_042656_ywtbdb.png) 
-<h1 align="center">Hi 👋, I'm Sujal Agarwal</h1>
+<h1 align="center">👋 Hi, I’m Sujal Agarwal</h1>
 <h3 align="center">A passionate MERN Stack and Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
 
 
 <img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
 
-## 👋 Hi, I’m **Sujal Agarwal**
+
 
 🎓 **Computer Science & Engineering (CSE)** student  
 🏫 **B.P. Poddar Institute of Management and Technology** (2022–2026)  
