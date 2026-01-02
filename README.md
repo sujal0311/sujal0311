@@ -1,6 +1,6 @@
 ![logo](https://res.cloudinary.com/dsujse28c/image/upload/v1760692236/Screenshot_2025-10-17_042656_ywtbdb.png) 
 <h1 align="center">Hi 👋, I'm Sujal Agarwal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate MERN Stack and Software developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20views&color=0e75b6&style=flat" alt="sujal0311" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal0311" alt="sujal0311" /></a> </p>
