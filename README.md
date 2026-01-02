@@ -6,43 +6,85 @@
 
 <img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
 
-Hi, I’m Sujal Agarwal, a Computer Science and Engineering student (2022–2026) at B.P. Poddar Institute of Management and Technology with a 9.03 CGPA. I’m passionate about combining technology and creativity to build impactful, scalable solutions that make a real difference.
+## 👋 Hi, I’m **Sujal Agarwal**
 
-I specialize in the MERN stack and have a strong foundation in C, C++, and Java. Over the past year, I’ve gained practical experience through internships at ANTLABS and ITJobxs, where I developed AI-powered tools, dashboards, and full-stack web platforms with responsive, secure, and user-focused designs.
+🎓 **Computer Science & Engineering (CSE)** student  
+🏫 **B.P. Poddar Institute of Management and Technology** (2022–2026)  
+📊 **CGPA:** 9.03  
 
-Some of my key projects include:
+I’m passionate about building **impactful, scalable, and user-centric web solutions** by blending technology with creativity. I specialize in the **MERN stack** and have a strong foundation in **C, C++, and Java**.
 
-Sarathi — a comprehensive mental health platform with chat, video calls, and community features.
+Over the past year, I’ve gained hands-on experience through internships at **ANTLABS** and **ITJobxs**, where I worked on **AI-powered tools, dashboards, and full-stack web platforms** with a focus on performance, security, and responsive design.
 
-RupeeKart — a full-featured e-commerce platform with Razorpay payment integration and AI chatbot support.
+---
 
-AlumniHub — an AI-powered alumni networking platform with mentorship and community modules.
+## 🚀 **What I Do**
+- 💻 Full-stack web development (MERN)
+- 🤖 AI-powered web applications
+- 🎨 Responsive & user-focused UI/UX
+- 🧠 Data Structures & Algorithms
 
-Beyond development, I’m an avid problem solver with 300+ DSA problems solved and a 5⭐ Gold Badge in Problem Solving on HackerRank. I’ve also earned top honors in several competitions — 1st place at Appmania 2024 and the Innovative Project Competition 2024, 3rd place at the Business Plan Innovation Competition, and recognition in the Top 30 at Hack-O-NIT 2024.
+---
 
-I’m always exploring new technologies, collaborating on innovative ideas, and striving to create user-centric, AI-driven web solutions that blend performance with purpose.Hi, I’m Sujal Agarwal, a Computer Science and Engineering student (2022–2026) at B.P. Poddar Institute of Management and Technology with a 9.03 CGPA. I’m passionate about combining technology and creativity to build impactful, scalable solutions that make a real difference. I specialize in the MERN stack and have a strong foundation in C, C++, and Java. Over the past year, I’ve gained practical experience through internships at ANTLABS and ITJobxs, where I developed AI-powered tools, dashboards, and full-stack web platforms with responsive, secure, and user-focused designs. Some of my key projects include: Sarathi — a comprehensive mental health platform with chat, video calls, and community features. RupeeKart — a full-featured e-commerce platform with Razorpay payment integration and AI chatbot support. AlumniHub — an AI-powered alumni networking platform with mentorship and community modules. Beyond development, I’m an avid problem solver with 300+ DSA problems solved and a 5⭐ Gold Badge in Problem Solving on HackerRank. I’ve also earned top honors in several competitions — 1st place at Appmania 2024 and the Innovative Project Competition 2024, 3rd place at the Business Plan Innovation Competition, and recognition in the Top 30 at Hack-O-NIT 2024. I’m always exploring new technologies, collaborating on innovative ideas, and striving to create user-centric, AI-driven web solutions that blend performance with purpose.
+## 🧑‍💼 **Experience**
 
--  ❤️ I'm Currently Pursuing my **B Tech** in **Computer Science and Engineering (CSE)**.
+### **Software Developer Intern — ITJobxs**
+- Developed responsive dashboards, navigation systems, and reusable UI components  
+- Integrated APIs and optimized workflows using React.js  
+- Collaborated with cross-functional teams to enhance UI/UX
 
+### **MERN Stack Intern — ANTLABS**
+- Built an AI-powered **Chat with PDF** tool  
+- Worked on full-stack development of enterprise applications  
+- Implemented secure authentication and role-based access systems
 
-- 💬 Ask me about **development related questions.**
+---
 
+## 🏗️ **Featured Projects**
 
-- 📫 How to reach me **sujalagarwal0311@gmail.com**
+### **🧠 Sarathi**
+A comprehensive mental health platform with community chat, audio/video calls, self-assessment quizzes, and AI chatbot support.
 
+### **🛒 RupeeKart**
+A full-featured e-commerce platform with Razorpay payment integration, order tracking, admin dashboard, and AI-powered customer support.
 
-- 👨‍💻 All of my projects are available at [GitHub](https://www.github.com/sujal0311)
+### **🎓 AlumniHub**
+An AI-powered alumni networking and mentorship platform with community modules, real-time communication, and subscription features.
 
-- Have a look at my [Portfolio Website](https://sujalagarwal2024.netlify.app/)
+---
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1z-bCH5jZ6FbH4OZBOiGaRbXt7DZMDcZ0/view?usp=sharing)
+## 🧠 **Problem Solving & Achievements**
+- ⭐ **5-Star Gold Badge** in Problem Solving on HackerRank  
+- 🧩 Solved **300+ DSA problems** on LeetCode, GeeksforGeeks & CodeStudio  
+- 🏆 **1st Place** — Appmania 2024 & Innovative Project Competition 2024  
+- 🥉 **3rd Place** — Business Plan Innovation Competition  
+- 🔝 **Top 30** — Hack-O-NIT 2024  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 📌 **Quick Info**
+- ❤️ Currently pursuing **B.Tech in CSE**
+- 💬 Ask me about **web development & DSA**
+- 📫 Reach me at **sujalagarwal0311@gmail.com**
+- 👨‍💻 Projects: [GitHub](https://www.github.com/sujal0311)
+- 🌐 Portfolio: [Website](https://sujalagarwal2024.netlify.app/)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1z-bCH5jZ6FbH4OZBOiGaRbXt7DZMDcZ0/view)
+
+---
+
+## 🤝 **Connect with Me**
 <p align="left">
-<a href="https://linkedin.com/in/sujalagarwal0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujalagarwal0311" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujalagarwal0311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujalagarwal0311" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gfg profile" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sujalagarwal0311" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.leetcode.com/sujalagarwal0311" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30" width="40"/>
+  </a>
 </p>
+
 
 ## 🛠️ **Technologies Known**
 
