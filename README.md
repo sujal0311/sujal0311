@@ -57,3 +57,5 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 ### **LeetCode Journey**
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=sujalagarwal0311" alt="LeetCode Badges" />
 
+### **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=sujal0311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" />
