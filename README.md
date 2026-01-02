@@ -71,20 +71,79 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1z-bCH5jZ6FbH4OZBOiGaRbXt7DZMDcZ0/view)
 
 ---
+## 🧑‍💻 **Coding Profiles**
 
-## 🤝 **Connect with Me**
-<p align="left">
-  <a href="https://linkedin.com/in/sujalagarwal0311" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+  <a href="https://codolio.com/profile/sujal0311" target="_blank">
+    <img src="https://github.com/user-attachments/assets/a0a1447d-c90d-4123-9f76-b2596512fa3c" height="40"/>
+    <br><strong>Codolio</strong>
   </a>
+</td>
+
+<td align="center" width="25%">
   <a href="https://www.leetcode.com/sujalagarwal0311" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+    <br><strong>LeetCode</strong>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="_blank">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="30" width="40"/>
-  </a>
-</p>
+</td>
 
+<td align="center" width="25%">
+  <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="_blank">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="40"/>
+    <br><strong>GeeksforGeeks</strong>
+  </a>
+</td>
+
+<td align="center" width="25%">
+  <a href="https://www.hackerrank.com/profile/sujalagarwal0311" target="_blank">
+    <img src="https://github.com/user-attachments/assets/47ae0746-7053-4101-b768-4e573076dc47" height="40"/>
+    <br><strong>HackerRank</strong>
+  </a>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+
+## 🌐 **Let’s Connect**
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+  <a href="https://www.linkedin.com/in/sujalagarwal0311/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <br><strong>LinkedIn</strong>
+  </a>
+</td>
+
+<td align="center" width="33%">
+  <a href="mailto:sujalagarwal0311@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+    <br><strong>Email</strong>
+  </a>
+</td>
+
+<td align="center" width="33%">
+  <a href="https://www.instagram.com/sujal4032/?hl=en" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+    <br><strong>Instagram</strong>
+  </a>
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ## 🛠️ **Technologies Known**
 
