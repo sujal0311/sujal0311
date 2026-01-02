@@ -44,20 +44,39 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
   <a href="https://www.geeksforgeeks.org/user/sujalagar550f" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="gfg profile" height="30" width="40" /></a>
 </p>
 
-🛠️ Technologies Known
-<div align="center">
-💻 Programming Languages
-<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" /> </p>
-🎨 Frontend Development
-<p> <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" /> </p>
-⚙️ Backend & Databases
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" /> </p>
-🤖 AI & Realtime Tech
-<p> <img src="https://skillicons.dev/icons?i=firebase&theme=dark" /> </p>
-🔧 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark" /> </p> </div>
+## 🛠️ **Technologies Known**
 
-# 📊 GitHub Stats:
+<div align="center">
+
+### **💻 Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
+</p>
+
+### **🎨 Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+</p>
+
+### **⚙️ Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</p>
+
+### **🤖 AI & Realtime Tech**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+</p>
+
+### **🔧 Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark" />
+</p>
+
+</div>
+
+
+## 📊 GitHub Stats:
 <div align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal0311&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  /></div>
 
 &nbsp;<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal0311&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="sujal0311"  /></div>
@@ -65,7 +84,7 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
 
 
-### **LeetCode Journey**
+## **LeetCode Journey**
 <div align="center">
   <img 
     src="https://leetcode-badge-showcase.vercel.app/api?username=sujalagarwal0311"
@@ -75,7 +94,7 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 </div>
 
 
-### **GitHub Trophies**
+## **GitHub Trophies**
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sujal0311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4"  width="500"/>
 </div>
