@@ -54,3 +54,6 @@ I’m always exploring new technologies, collaborating on innovative ideas, and 
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
 
+### **LeetCode Journey**
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sujalagarwal0311" alt="LeetCode Badges" />
+
