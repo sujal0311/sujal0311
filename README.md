@@ -178,10 +178,6 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 
 
 ## 📊 GitHub Stats:
-<div align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal0311&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  /></div>
-
-&nbsp;<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal0311&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="sujal0311"  /></div>
-
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
 
 
