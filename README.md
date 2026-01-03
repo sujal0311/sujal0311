@@ -1,7 +1,9 @@
 ![logo](https://res.cloudinary.com/dsujse28c/image/upload/v1760692236/Screenshot_2025-10-17_042656_ywtbdb.png) 
 <h1 align="center">👋 Hi, I’m Sujal Agarwal</h1>
-<h3 align="center">A passionate MERN Stack and Software developer from India</h3>
-<img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
+<h3 align="center">A passionate MERN Stack and Software Developer from India</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujal0311&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
 
 
 <img align="right" width="330px"  src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif"/>
@@ -19,10 +21,33 @@ Over the past year, I’ve gained hands-on experience through internships at **A
 ---
 
 ## 🚀 **What I Do**
-- 💻 Full-stack web development (MERN)
-- 🤖 AI-powered web applications
-- 🎨 Responsive & user-focused UI/UX
-- 🧠 Data Structures & Algorithms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-MERN-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI--Powered-Applications-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive-UI/UX-6C63FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-00C853?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+
+## 📌 **Quick Info**
+
+<p align="center">
+  <a href="mailto:sujalagarwal0311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sujalagarwal0311%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.github.com/sujal0311">
+    <img src="https://img.shields.io/badge/GitHub-sujal0311-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://sujalagarwal2024.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1z-bCH5jZ6FbH4OZBOiGaRbXt7DZMDcZ0/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ---
 
@@ -42,16 +67,66 @@ Over the past year, I’ve gained hands-on experience through internships at **A
 
 ## 🏗️ **Featured Projects**
 
-### **🧠 Sarathi**
-A comprehensive mental health platform with community chat, audio/video calls, self-assessment quizzes, and AI chatbot support.
+### 🧠 **Sarathi**
+
+<p align="center">
+  <a href="https://sarathi20242.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-Sarathi-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/sujal0311/Sarathi" target="_blank">
+    <img src="https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
+  </a>
+</p>
+
+A comprehensive mental health platform featuring **community chat**, **audio/video calls**, **self-assessment quizzes**, and **AI chatbot support**.
 
 ### **🛒 RupeeKart**
+<p align="center">
+  <a href="https://rupeekart2024.netlify.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/🔗_Live_Demo-RupeeKart-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/> </a>
+  <a href="https://github.com/sujal0311/RupeeKart" target="_blank">
+    <img src="https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/> </a> 
+</p>
 A full-featured e-commerce platform with Razorpay payment integration, order tracking, admin dashboard, and AI-powered customer support.
 
 ### **🎓 AlumniHub**
+<p align="center"> <a href="https://alumnihub2025.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/🔗_Live_Demo-AlumniHub-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"/> </a> <a href="https://github.com/sujal0311/Alumni-Hub" target="_blank"> <img src="https://img.shields.io/badge/📦_GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/> </a> </p>
 An AI-powered alumni networking and mentorship platform with community modules, real-time communication, and subscription features.
 
 ---
+
+
+
+## 🛠️ **Technologies Known**
+
+<div align="center">
+
+### **💻 Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
+</p>
+
+### **🎨 Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
+</p>
+
+### **⚙️ Backend & Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+</p>
+
+### **🤖 AI & Realtime Tech**
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+</p>
+
+### **🔧 Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark" />
+</p>
+
+</div>
 
 ## 🧠 **Problem Solving & Achievements**
 - ⭐ **5-Star Gold Badge** in Problem Solving on HackerRank  
@@ -62,15 +137,6 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 
 ---
 
-## 📌 **Quick Info**
-- ❤️ Currently pursuing **B.Tech in CSE**
-- 💬 Ask me about **web development & DSA**
-- 📫 Reach me at **sujalagarwal0311@gmail.com**
-- 👨‍💻 Projects: [GitHub](https://www.github.com/sujal0311)
-- 🌐 Portfolio: [Website](https://sujalagarwal2024.netlify.app/)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1z-bCH5jZ6FbH4OZBOiGaRbXt7DZMDcZ0/view)
-
----
 ## 🧑‍💻 **Coding Profiles**
 
 <div align="center">
@@ -111,6 +177,42 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 
 </div>
 
+## 📊 GitHub Stats:
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
+
+## **GitHub Trophies**
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sujal0311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4"  width="500"/>
+</div>
+
+### **📊 LeetCode Statistics**
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/sujalagarwal0311?theme=dark&font=Syne&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
+## **LeetCode Journey**
+<div align="center">
+  <img 
+    src="https://leetcode-badge-showcase.vercel.app/api?theme=dark&username=sujalagarwal0311"
+    alt="LeetCode Badges"
+    width="500"
+  />
+</div>
+
+
+## 🔥 **Recent Activity**
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal0311&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
 
 ## 🌐 **Let’s Connect**
 
@@ -145,72 +247,27 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 
 </div>
 
-## 🛠️ **Technologies Known**
+---
+
+## ⭐ Support My Work
 
 <div align="center">
 
-### **💻 Programming Languages**
+If you find my projects **helpful** or **interesting**, please consider:
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js&theme=dark" />
+  <a href="https://github.com/sujal0311?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star-My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sujal0311">
+    <img src="https://img.shields.io/badge/🤝_Follow-@sujal0311-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-### **🎨 Frontend Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
-</p>
+**Your support motivates me to keep building impactful and open-source projects!** 🚀
 
-### **⚙️ Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-</p>
+---
 
-### **🤖 AI & Realtime Tech**
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-</p>
-
-### **🔧 Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,render&theme=dark" />
-</p>
-
-</div>
-
-
-## 📊 GitHub Stats:
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
-
-
-### **📊 LeetCode Statistics**
-<p align="center">
-  <img 
-    src="https://leetcard.jacoblin.cool/sujalagarwal0311?theme=dark&font=Syne&ext=heatmap"
-    alt="LeetCode Stats"
-  />
-</p>
-
-## **LeetCode Journey**
-<div align="center">
-  <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?theme=dark&username=sujalagarwal0311"
-    alt="LeetCode Badges"
-    width="500"
-  />
-</div>
-
-
-## **GitHub Trophies**
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sujal0311&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4"  width="500"/>
-</div>
-
-## 🔥 **Recent Activity**
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujal0311&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" />
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
