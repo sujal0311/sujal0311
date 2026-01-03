@@ -181,10 +181,18 @@ An AI-powered alumni networking and mentorship platform with community modules, 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal0311&theme=nightowl&hide_border=false" alt="sujal0311"  /></div>
 
 
+### **📊 LeetCode Statistics**
+<p align="center">
+  <img 
+    src="https://leetcard.jacoblin.cool/sujalagarwal0311?theme=dark&font=Syne&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
 ## **LeetCode Journey**
 <div align="center">
   <img 
-    src="https://leetcode-badge-showcase.vercel.app/api?username=sujalagarwal0311"
+    src="https://leetcode-badge-showcase.vercel.app/api?theme=dark&username=sujalagarwal0311"
     alt="LeetCode Badges"
     width="500"
   />
