@@ -12,7 +12,7 @@
 
 🎓 **Computer Science & Engineering (CSE)** student  
 🏫 **B.P. Poddar Institute of Management and Technology** (2022–2026)  
-📊 **CGPA:** 9.03  
+📊 **CGPA:** 9.08
 
 I’m passionate about building **impactful, scalable, and user-centric web solutions** by blending technology with creativity. I specialize in the **MERN stack** and have a strong foundation in **C, C++, and Java**.
 
