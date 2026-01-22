@@ -1,4 +1,5 @@
-![logo](https://res.cloudinary.com/dsujse28c/image/upload/v1760692236/Screenshot_2025-10-17_042656_ywtbdb.png) 
+![logo](https://github.com/user-attachments/assets/dd1994f8-5ea6-4ce2-97b9-e4f0b3969ee6) 
+
 <h1 align="center">👋 Hi, I’m Sujal Agarwal</h1>
 <h3 align="center">A passionate MERN Stack and Software Developer from India</h3>
 <p align="center">
